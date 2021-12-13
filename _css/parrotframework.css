@@ -1,0 +1,236 @@
+/*
+* All color classes can be applied to any html tag. 
+* Parrot framework only works with colors to help better 
+* in development, no need to type colors in css.
+*/
+.pf000c{color:#000}
+/*background*/
+.pf000b{background-color: #000;}
+/*------------------------------------------*/
+.pf001c{color:#fff}
+/*background*/
+.pf001b{background-color: #fff;}
+/*-----------------------------------------*/
+
+.pf002c{color:#56CBF9}
+.pf003c{color: #7FBEEB}
+.pf004c{color: #AFBED1}
+.pf005c{color: #EAC5D8}
+.pf006c{color: #DBD8F0}
+/* backgrounds*/
+.pf000b{background-color:#000} 
+.pf001b{background-color:#fff} 
+.pf002b{background-color:#56CBF9}
+.pf003b{background-color: #7FBEEB}
+.pf004b{background-color: #AFBED1}
+.pf005b{background-color: #EAC5D8}
+.pf006b{background-color: #DBD8F0}
+/*------------------------------------------*/
+.pf007c{color:#023E8A}
+.pf008c{color:#0077B6}
+.pf009c{color:#0096C7}
+.pf010c{color:#48CAE4}
+.pf011c{color:#ADE8F4}
+
+/*background*/
+.pf007b{background-color:#023E8A}
+.pf008b{background-color:#0077B6}
+.pf009b{background-color:#0096C7}
+.pf010b{background-color:#48CAE4}
+.pf011b{background-color:#ADE8F4}
+/*-------------------------------------------*/
+
+
+.pf012c{color:#FFADAD}
+.pf013c{color:#FFD6A5}
+.pf014c{color:#FDFFB6}
+.pf015c{color:#CAFFBF}
+.pf016c{color:#9BF6FF}
+.pf017c{color:#A0C4FF}
+.pf018c{color:#BDB2FF}
+.pf019c{color:#FFC6FF}
+.pf020c{color:#FFFFFC}
+
+/* background */
+.pf012b{background-color:#FFADAD}
+.pf013b{background-color:#FFD6A5}
+.pf014b{background-color:#FDFFB6}
+.pf015b{background-color:#CAFFBF}
+.pf016b{background-color:#9BF6FF}
+.pf017b{background-color:#A0C4FF}
+.pf018b{background-color:#BDB2FF}
+.pf019b{background-color:#FFC6FF}
+.pf020b{background-color:#FFFFFC}
+/*-------------------------------------------*/
+
+.pf021c{color:#E63946}
+.pf022c{color:#F1FAEE}
+.pf023c{color:#A8DADC}
+.pf024c{color:#457B9D}
+.pf025c{color:#1D3557}
+
+/*background*/
+.pf021b{background-color:#E63946}
+.pf022b{background-color:#F1FAEE}
+.pf023b{background-color:#A8DADC}
+.pf024b{background-color:#457B9D}
+.pf025b{background-color:#1D3557}
+/*-------------------------------------------*/
+
+.pf026c{color:#03071E}
+.pf027c{color:#370617}
+.pf028c{color:#6a040f}
+.pf029c{color:#9d0208}
+.pf030c{color:#d00000}
+.pf031c{color:#dc2f02}
+.pf032c{color:#e85d04}
+.pf033c{color:#f48c06}
+.pf034c{color:#faa307}
+.pf035c{color:#ffba08}
+
+/*background*/
+
+.pf026b{background-color:#03071E}
+.pf027b{background-color:#370617}
+.pf028b{background-color:#6a040f}
+.pf029b{background-color:#9d0208}
+.pf030b{background-color:#d00000}
+.pf031b{background-color:#dc2f02}
+.pf032b{background-color:#e85d04}
+.pf033b{background-color:#f48c06}
+.pf034b{background-color:#faa307}
+.pf035b{background-color:#ffba08}
+/*-------------------------------------------*/
+
+.pf036c{color:#14213D}
+.pf037c{color:#FCA311}
+.pf037c{color:#E5E5E5}
+.pf039c{color:#FFFFFF}
+
+/*background*/
+.pf036b{background-color:#14213D}
+.pf037b{background-color:#FCA311}
+.pf037b{background-color:#E5E5E5}
+.pf039b{background-color:#FFFFFF}
+/*------------------------------------------*/
+
+.pf040c{color:#006D77}
+.pf041c{color:#83C5BE}
+.pf042c{color:#EDF6F9}
+.pf043c{color:#FFDDD2}
+.pf044c{color:#E29578}
+
+/*Background*/
+.pf040b{background-color:#006D77}
+.pf041b{background-color:#83C5BE}
+.pf042b{background-color:#EDF6F9}
+.pf043b{background-color:#FFDDD2}
+.pf044b{background-color:#E29578}
+/*---------------------------------------------*/
+
+.pf045c{color:#000814}
+.pf046c{color:#001D3D}
+.pf047c{color:#003566}
+.pf048c{color:#FFC300}
+.pf049c{color:#FFD60A}
+
+/*Background*/
+.pf045b{background-color:#000814}
+.pf046b{background-color:#001D3D}
+.pf047b{background-color:#003566}
+.pf048b{background-color:#FFC300}
+.pf049b{background-color:#FFD60A}
+/*-----------------------------------------------------*/
+
+.pf050c{color:#10002B}
+.pf051c{color:#240046}
+.pf052c{color:#3C096C}
+.pf053c{color:#5A189A}
+.pf054c{color:#7B2CBF}
+.pf055c{color:#9D4EDD}
+.pf056c{color:#C77DFF}
+.pf057c{color:#E0AAFF}
+/*Background*/
+.pf050b{background-color:#10002B}
+.pf051b{background-color:#240046}
+.pf052b{background-color:#3C096C}
+.pf053b{background-color:#5A189A}
+.pf054b{background-color:#7B2CBF}
+.pf055b{background-color:#9D4EDD}
+.pf056b{background-color:#C77DFF}
+.pf057b{background-color:#E0AAFF}
+/*----------------------------------------------------*/
+
+.pf058c{color:#000000}
+.pf059c{color:#111111}
+.pf060c{color:#232323}
+.pf061c{color:#343434}
+.pf062c{color:#464646}
+.pf063c{color:#575757}
+.pf064c{color:#696969}
+.pf065c{color:#7a7a7a}
+
+/*background*/
+
+.pf058b{background-color:#000000}
+.pf059b{background-color:#111111}
+.pf060b{background-color:#232323}
+.pf061b{background-color:#343434}
+.pf062b{background-color:#464646}
+.pf063b{background-color:#575757}
+.pf064b{background-color:#696969}
+.pf065b{background-color:#7a7a7a}
+/*-----------------------------------------------*/
+
+
+/* minha cor*/
+
+.pf066c{color:#000}
+.pf067c{color:#14213D}
+.pf068c{color: #FCA311}
+.pf069c{color: #E5E5E5}
+.pf070c{color: #fff}
+/*background*/
+.pf066b{background-color:#000}
+.pf067b{background-color:#14213D}
+.pf068b{background-color: #FCA311}
+.pf069b{background-color: #E5E5E5}
+.pf070b{background-color: #fff}
+/*------------------------------------------------*/
+
+.pf071c{color:#FF1053}
+.pf072c{color: #6C6EA0}
+.pf073c{color: #66C7F4}
+.pf074c{color: #C1CAD6}
+.pf075c{color: #fff}
+/*background*/
+.pf071b{background-color:#FF1053}
+.pf072b{background-color: #6C6EA0}
+.pf073b{background-color: #66C7F4}
+.pf074b{background-color: #C1CAD6}
+.pf075b{background-color: #fff}
+/*----------------------------------------------*/
+
+
+.pf076c{color: #004B23}
+.pf077c{color: #006400}
+.pf078c{color: #007200}
+.pf079c{color: #008000}
+.pf080c{color: #38B000}
+.pf081c{color: #70E000}
+.pf082c{color: #9EF01A}
+.pf083c{color: #CCFF33}
+.pf084c{color:#069}
+
+
+/*---------background----------------------------*/
+
+.pf076b{background-color: #004B23}
+.pf077b{background-color: #006400}
+.pf078b{background-color: #007200}
+.pf079b{background-color: #008000}
+.pf080b{background-color: #38B000}
+.pf081b{background-color: #70E000}
+.pf082b{background-color: #9EF01A}
+.pf083b{background-color: #CCFF33}
+.pf084b{background-color: #068}

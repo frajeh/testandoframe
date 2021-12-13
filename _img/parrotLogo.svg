@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg15890"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="parrotLogo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15892"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.14992291"
+     inkscape:cx="360.18511"
+     inkscape:cy="436.8912"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs15887">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11029"
+       id="linearGradient11031"
+       x1="281.24527"
+       y1="6.707458"
+       x2="299.96378"
+       y2="-41.648636"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-197.37407,149.13598)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient11029">
+      <stop
+         style="stop-color:#44aa00;stop-opacity:1;"
+         offset="0"
+         id="stop11025" />
+      <stop
+         style="stop-color:#0066ff;stop-opacity:1"
+         offset="1"
+         id="stop11027" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient14233"
+       id="linearGradient14235"
+       x1="302.30356"
+       y1="-5.6155462"
+       x2="317.90231"
+       y2="-33.693279"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-197.37407,149.13598)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient14233">
+      <stop
+         style="stop-color:#3771c8;stop-opacity:1;"
+         offset="0"
+         id="stop14229" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:1"
+         offset="1"
+         id="stop14231" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1219"
+       transform="matrix(3.7154892,0,0,3.7154892,-284.99435,-346.64218)">
+      <path
+         style="fill:url(#linearGradient11031);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 81.3754,103.89964 v 59.58718 l 13.41493,-0.46796 0.15597,-16.22269 -0.15597,-25.89391 c 0,0 8.42332,-1.40388 8.73529,8.11135 0,0 15.44275,-19.34244 -4.9916,-19.03047 -10.16795,0.15524 -17.15862,-6.0835 -17.15862,-6.0835 z"
+         id="path10477"
+         sodipodi:nodetypes="ccccccsc" />
+      <path
+         style="fill:url(#linearGradient14235);fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.54503,100.6239 c 0,0 17.07413,13.24588 7.33142,28.70168 -4.24605,6.73592 -21.83823,10.29517 -21.83823,10.29517 l 0.15598,9.67122 c 0,0 24.59495,1.67269 30.88549,-18.71849 6.62618,-21.47919 -16.53466,-29.94958 -16.53466,-29.94958 z"
+         id="path10610"
+         sodipodi:nodetypes="csccsc" />
+      <ellipse
+         style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.242112"
+         id="ellipse12484"
+         cx="99.485558"
+         cy="103.7223"
+         rx="1.3560268"
+         ry="1.5701363" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:6.75714px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.168929;stroke-opacity:1"
+         x="76.382988"
+         y="178.76773"
+         id="text15285"
+         transform="scale(1.0594189,0.9439137)"><tspan
+           sodipodi:role="line"
+           id="tspan15283"
+           style="stroke:#ffffff;stroke-width:0.168929;stroke-opacity:1"
+           x="76.382988"
+           y="178.76773">FRAMEWORK</tspan></text>
+    </g>
+  </g>
+</svg>
